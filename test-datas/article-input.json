@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Playwright Training Session Assessment",
+    "about": "Training Session Activity",
+    "body": "Learn Playwright.",
+    "tags": "Learning"
+  },
+  {
+    "title": "Page Object Model in Playwright",
+    "about": "Organising locators and actions",
+    "body": "Keep locators in page classes and reuse them across tests.",
+    "tags": "POM"
+  },
+  {
+    "title": "Data Driven Testing with JSON",
+    "about": "Running one test with many inputs",
+    "body": "Loop over a JSON array to create one test per data row.",
+    "tags": "DataDriven"
+  }
+]
